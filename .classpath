@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="res/lib.jar"/>
+	<classpathentry kind="lib" path="res/converter-gson-2.2.0.jar"/>
+	<classpathentry kind="lib" path="res/converter-scalars-2.2.0.jar"/>
+	<classpathentry kind="lib" path="res/retrofit-2.2.0.jar"/>
+	<classpathentry kind="lib" path="res/okhttp-3.6.0.jar"/>
+	<classpathentry kind="lib" path="res/okio-1.11.0.jar"/>
+	<classpathentry kind="lib" path="res/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="res/BrickPiJava.jar"/>
+	<classpathentry kind="lib" path="res/pi4j-core-0.0.5.jar"/>
+	<classpathentry kind="lib" path="res/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="res/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
